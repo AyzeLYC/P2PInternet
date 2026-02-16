@@ -8,8 +8,8 @@
 #define CHAR8 char8_t
 #define CHAR16 char16_t
 
-#include <vector>
-#define STRING std::vector<CHAR8>
+#include <string>
+#define STRING std::string
 
 #include "./application_end_point.cpp"
 #include "./audio.cpp"
