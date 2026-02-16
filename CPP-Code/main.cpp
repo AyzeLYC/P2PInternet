@@ -5,7 +5,8 @@
 #define UINT32 uint32_t
 #define UINT64 uint64_t
 
-#define UCHAR8 unsigned char16_t
+#define CHAR8 char8_t
+#define CHAR16 char16_t
 
 #include "./application_end_point.cpp"
 #include "./audio.cpp"
