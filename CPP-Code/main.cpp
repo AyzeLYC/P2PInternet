@@ -1,6 +1,6 @@
 #include <stdint.h>
 
-#define UINT8 byte
+#define UINT8 uint8_t
 #define UINT16 unsigned short int
 #define UINT32 uint32_t
 #define UINT64 uint64_t
